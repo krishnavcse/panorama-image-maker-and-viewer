@@ -1,0 +1,11 @@
+Python  ==  3.6
+pip == 10.0.1
+opencv-python  ==  3.4.2.17
+matplotlib  ==  2.2.3
+numpy  ==  1.15.0
+PyQt5-sip  ==  4.19.12
+pyqt5-toold  ==  5.9.0.1.2
+PyQt5  ==  5.11.2
+
+
+#When this Application was developed, above packages version used. You can update the packages version to latest.

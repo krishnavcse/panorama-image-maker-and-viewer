@@ -1,0 +1,22 @@
+Before running the program kindly make sure,you install all the required packages successfully.
+To run the Program: 
+initially change your directory to src folder by using command "cd". "cd   src" if needed
+
+
+	            python  gui.py
+or which ever python3 version you have, just make sure,it is python3 version and not too old version than python3.6, something like latest version or few earlier versions. 
+ If you face any probled in viewing the webpage view of Panorama Image,like image is not being loaded. You could download latest " Oracle Java " Version on your system and install it.
+
+cropped Folder : cropped is used to store temporary cropped image, the last cropped image only by default
+input_image Folder: cosists of image and .text file which contains image order and focal length.
+Panorama_Collection Folder: consists of  Panorama Images
+Panorama_Viewer Folder: consists of webpage view for Panorama Image i.e, .html file, .css file and .js file
+src Folder: cosists of source code in python3 language only
+stich Folder: while creating the new panorama, the images are stored in stich Folder including aligned.jpg and cropped.jpg
+
+Note:
+1) input_image Folder and Panorama_Collection Folder are independent folders and could be created anywhere inside the system
+    storage and changes need not to be done in the program, for the program to execute correctly.
+2)cropped Folder, Panorama_Viewer Folder and stich Folder are dependent folders and could be create anywhere inside the system
+    storage and similar changes need to be done in the program, for the program to execute correctly. 
+3) Unnecessary don't delete any above folder, and it may lead to errors in the program execution.
